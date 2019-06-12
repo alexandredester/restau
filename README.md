@@ -1,0 +1,2 @@
+# restau
+Il s'agissait de construire le site de e-commerce d'un restaurant permettant de réserver en ligne une table et d'acheter (puis se faire livrer) des produits alimentaires. Le site devait servir autant aux clients qu'aux salariés du restaurant qui, quand ils se connecteront, pourront suivre les commandes, les réservations, le catalogue de produits alimentaires . Il a été réalisé en design pattern MVC, utilisant un micro framework conçu par la 3wAcademy. La difficulté résidait dans la création d'un session administrateur.
